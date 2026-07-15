@@ -1,0 +1,123 @@
+{
+    "profile": {
+        "name": "Yvonne Valerie",
+        "title": "1st Year BS Information Technology Student",
+        "tagline": "Aspiring Web Developer and UI Designer",
+        "email": "jyvonnevalerie@gmail.com",
+        "github": "https://github.com/yvonnevalerie/webdev1-2026",
+        "figma": "https://www.figma.com/design/8jikwRxj0D8VGCaPVTbDue/suiteness?node-id=0-1&p=f&t=LJkRZc50pcXHu72j-0",
+        "photo": "assets/profile.jpg"
+    },
+    "about": {
+        "description": "Hi! I'm Yvonne Valerie, a first-year BS Information Technology student at Lorma Colleges. I am currently learning HTML, CSS, JavaScript, Java, GitHub, and Figma. I enjoy creating responsive websites, designing simple user interfaces, and building programming projects that help improve my skills. My goal is to become a skilled web developer and continue learning new technologies."
+    },
+    "education": [
+        {
+            "level": "Elementary",
+            "school": "Mameltac Elementary School",
+            "year": "2013 - 2019"
+        },
+        {
+            "level": "High School",
+            "school": "Dr. Quintin Balcita Sr. National High School",
+            "year": "2019 - 2024"
+        },
+        {
+            "level": "College",
+            "school": "Lorma Colleges",
+            "course": "Bachelor of Science in Information Technology",
+            "year": "2025 - Present"
+        }
+    ],
+    "skills": [
+        {
+            "name": "HTML",
+            "level": "Beginner"
+        },
+        {
+            "name": "CSS",
+            "level": "Beginner"
+        },
+        {
+            "name": "JavaScript",
+            "level": "Beginner"
+        },
+        {
+            "name": "Java Programming",
+            "level": "Beginner"
+        },
+        {
+            "name": "Figma",
+            "level": "Beginner"
+        },
+        {
+            "name": "Git & GitHub",
+            "level": "Beginner"
+        },
+        {
+            "name": "Teamwork",
+            "level": "Intermediate"
+        },
+        {
+            "name": "Communication",
+            "level": "Intermediate"
+        }
+    ],
+        "projects": [
+        {
+            "title": "IUUX PROJECT",
+            "description": "responsive hotel and restaurant website designed in Figma and developed using HTML, CSS, JavaScript, and JSON. The website features a modern user interface with room reservations, QR code functionality, chatbot support, notifications, customer reviews, reservation management, cancellation, and responsive layouts to provide a better user experience.",
+            "github": "https://github.com/yvonnevalerie/webdev1-2026",
+            "figma": "https://www.figma.com/design/8jikwRxj0D8VGCaPVTbDue/suiteness?node-id=0-1&p=f&t=LJkRZc50pcXHu72j-0"
+        },
+        {
+            "title": "HANGMAN GAME",
+            "description": "A Java-based Hangman game developed for my Computer Programming 2 course. Players guess the hidden word one letter at a time before running out of attempts. The game includes score tracking, random word selection, and demonstrates object-oriented programming concepts in Java.",
+            "github": "https://github.com/yvonnevalerie/compro2/tree/d5d51d9b819d3b6876e3f95902a3b1fd3533e86b/activity9/demo"
+        },
+        {
+            "title": "BANK PROJECT",
+            "description": "A Java-based Bank Management System developed as my COMPRO2 Final Project. It demonstrates object-oriented programming, account management, and banking operations.",
+            "github": "https://github.com/yvonnevalerie/compro2/tree/d5d51d9b819d3b6876e3f95902a3b1fd3533e86b/Final%20Project"
+        }
+    ],
+
+    "certificates": [
+        {
+            "title": "Introduction to Domestic Service",
+            "date": "February 25, 2025",
+            "image": "certificates/certificate1.png",
+            "link": "certificates/certificate1.png"
+        },
+        {
+            "title": "Cleaning Rooms & Kitchen",
+            "date": "February 25, 2025",
+            "image": "certificates/certificate2.png",
+            "link": "certificates/certificate2.png"
+        },
+        {
+            "title": "Providing Food & Beverage Service",
+            "date": "February 25, 2025",
+            "image": "certificates/certificate3.png",
+            "link": "certificates/certificate3.png"
+        },
+        {
+            "title": "Working in a Gender-Diverse Environment",
+            "date": "February 25, 2025",
+            "image": "certificates/certificate4.png",
+            "link": "certificates/certificate4.png"
+        },
+        {
+            "title": "Washing & Iron Clothes and Linens",
+            "date": "February 25, 2025",
+            "image": "certificates/certificate5.png",
+            "link": "certificates/certificate5.png"
+        },
+        {
+            "title": "Preparing Hot & Cold Meals",
+            "date": "February 25, 2025",
+            "image": "certificates/certificate6.png",
+            "link": "certificates/certificate6.png"
+        }
+    ]
+}
